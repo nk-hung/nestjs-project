@@ -1,0 +1,5 @@
+export enum ProductTypeEnum {
+  FURNITURE = 'FURNITURE',
+  CLOTHING = 'CLOTHING',
+  ELECTRONICS = 'ELECTRONICS',
+}
